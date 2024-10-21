@@ -19,7 +19,7 @@ Budget Manager - это веб-приложение для управления 
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-- git clone [https://github.com/your-username/budget-manager.git](https://github.com/your-username/budget-manager.git)
+- git clone [https://github.com/Kardi322/budget-manager.git)
 
 2. Перейдите в директорию проекта:
 - cd budget-manager
